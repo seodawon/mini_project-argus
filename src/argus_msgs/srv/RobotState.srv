@@ -1,0 +1,10 @@
+#Enum constants
+int8 ARRIVED = 0
+int8 OPERATE = 1
+int8 WAYPOINT = 2
+
+#request
+int8 state
+---
+#response
+string req
