@@ -15,7 +15,7 @@
 <br>
 
 ## 🚀 실행 흐름도
-<img src="media/business_requirement.jpg" width="900" height="1324" alt="시스템 구조 설계">
+<img src="media/business_requirement.jpg" width="1200" height="1524" alt="시스템 구조 설계">
 
 <br>
 
