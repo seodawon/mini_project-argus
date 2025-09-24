@@ -2,7 +2,7 @@
 
 ### 프로젝트 개요
 - **목적**: 로봇 1대가 건물 내부를 탐색하며 위험물(예: 크레어 모어)과 적군(RC Car)을 탐지  
-- **영상 링크**: [![Argus Demo](https://img.youtube.com/vi/rrv0ZHoh6SU/0.jpg)](https://youtu.be/rrv0ZHoh6SU)  
+- **영상 링크**: <br> [![Argus Demo](https://img.youtube.com/vi/rrv0ZHoh6SU/0.jpg)](https://youtu.be/rrv0ZHoh6SU)  <br>
   ➡ 영상 클릭 시, YouTube 재생
 
 <br>
@@ -15,7 +15,7 @@
 <br>
 
 ## 🚀 실행 흐름도
-<img src="media/business_requirement.jpg" width="640" height="480" alt="시스템 구조 설계">
+<img src="media/business_requirement.jpg" width="640" height="1024" alt="시스템 구조 설계">
 
 <br>
 
